@@ -1,0 +1,8 @@
+.formContainer {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('src/assets/images/user.png');
+    background-size: auto 100%;
+    background-position: right top;
+    background-repeat: no-repeat;
+}
